@@ -1,0 +1,249 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+h4, .navbar {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+}
+
+h1 {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  letter-spacing: 3px;
+}
+
+/* Title Section */
+.logo {
+  width: 20%;
+  height: auto;
+  padding-left: 20px;
+}
+
+.broll1 {
+  width: 100%;
+  height: auto;
+}
+
+/* Invite To Book */
+.book-now {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.invite-to-book {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Explore Treatments */
+#discover-treatments {
+  background-color: #2D2E2B;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+}
+
+.discover-padding {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.discover {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.motto {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.pic {
+  width: 100%;
+  height: 100%;
+}
+
+.explore-padding {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/* COVID-19 Protocols */
+#COVID-19-PROTOCOLS {
+  padding: 7%;
+  text-align: center;
+}
+
+.protocol {
+  margin: 20px;
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.COVID-19 {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #365E3B;
+}
+
+/* PRICING */
+.pricing {
+  background-color: #2D2E2B;
+  padding: 30px;
+}
+
+.price-list {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  text-align: center;
+}
+
+/* FOOTNOTE */
+#footnote {
+  padding: 10px;
+}
+
+/* PAGE HEADINGS */
+.page {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.page-heading {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* MASSAGE TREATMENTS */
+#massage-treatments {
+  background-color: #2D2E2B;
+}
+
+.massage-pic {
+  padding-top: 15px;
+  width: 100%;
+  height: 100%;
+}
+
+.reflexology-pic {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 100%;
+  height: 100%;
+}
+
+.massage-heading {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.reflexology-heading {
+  color: white;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.treatment-desc {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/* ABOUT PAGE */
+.manifesto-desc {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+  color: black;
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.pillar-pic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.webdev {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pillar-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pillar-desc {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.five-pillars {
+  background-color: #2D2E2B;
+  padding: 50px 0 50px 0;
+  color: white;
+  text-align: left;
+}
+
+.pillar-name {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+}
+
+.product-updates {
+  font-family: 'Italiana', serif;
+  font-weight: bolder;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.fa-brands {
+  font-size: 30px;
+}
+
+.opHours {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: white;
+}
